@@ -1,4 +1,4 @@
-很low
+
 # install dependencies
 npm install
 
